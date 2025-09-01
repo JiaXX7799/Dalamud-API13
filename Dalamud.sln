@@ -80,6 +80,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lumina.Excel.Generator", "l
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lumina.Excel", "lib\Lumina.Excel\src\Lumina.Excel\Lumina.Excel.csproj", "{88FB719B-EB41-73C5-8D25-C03E0C69904F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommons", "ECommons\ECommons\ECommons.csproj", "{342286A5-6157-4750-8AD7-02CD93D1AF2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -182,6 +184,10 @@ Global
 		{88FB719B-EB41-73C5-8D25-C03E0C69904F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88FB719B-EB41-73C5-8D25-C03E0C69904F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88FB719B-EB41-73C5-8D25-C03E0C69904F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342286A5-6157-4750-8AD7-02CD93D1AF2D}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{342286A5-6157-4750-8AD7-02CD93D1AF2D}.Debug|Any CPU.Build.0 = Debug|x64
+		{342286A5-6157-4750-8AD7-02CD93D1AF2D}.Release|Any CPU.ActiveCfg = Release|x64
+		{342286A5-6157-4750-8AD7-02CD93D1AF2D}.Release|Any CPU.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
